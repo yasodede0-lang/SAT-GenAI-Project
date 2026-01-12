@@ -1,0 +1,30 @@
+Below are sample SAT English and Math questions generated/acquired using the core engine
+
+example1:
+"id": "S1",
+        "soru_turu": "Craft and Structure: Text Structure and Purpose",
+        "zorluk": "Hard",
+        "soru_metni": "<u> “How lifelike are they?” </u> Many computer animators prioritize this question as they strive to create ever more realistic environments and lighting. Generally, while characters in computer-animated films appear highly exaggerated, environments and lighting are carefully engineered to mimic reality. But some animators, such as Pixar’s Sanjay Patel, are focused on a different question. Rather than asking first whether the environments and lighting they’re creating are convincingly lifelike, Patel and others are asking whether these elements reflect their films’ unique stories.",
+        "soru": "Which choice best describes the function of the underlined question in the text as a whole?",
+        "secenekler": [
+            "A) It reflects a primary goal that many computer animators have for certain components of the animations they produce.",
+            "B) It represents a concern of computer animators who are more interested in creating unique backgrounds and lighting effects than realistic ones.",
+            "C) It conveys the uncertainty among many computer animators about how to create realistic animations using current technology.",
+            "D) It illustrates a reaction that audiences typically have to the appearance of characters created by computer animators."
+        ],
+        "dogru_cevap_ve_aciklama": "Choice A is the best answer because it most accurately describes the function of the underlined question in the text as a whole. The text begins with the underlined question, “How lifelike are they?” The text then explains that many computer animators pose this question about the environments and lighting that they create for animated films, striving for realistic animation of those components even if the characters themselves aren’t portrayed in realistic terms. The focus of the text then shifts to describe how some animators strive to create environments and lighting that reflect the film’s unique stories rather than making them appear realistic. Therefore, the function of the underlined question is to reflect a primary goal that many computer animators have for certain components of the animations they produce. Choice B is incorrect because, as the text makes clear, the underlined question is one posed by computer animators who wish to create realistic backgrounds and lighting effects, not by those who, instead, wish to create effects that reflect films’ unique stories and aren’t necessarily realistic; this latter group of animators is discussed later in the text. Choice C is incorrect. As the text explains, many computer animators strive for realistic environments and lighting, while others do not; this difference of approach relates to whether these components should be realistic, not to how realism can be achieved using current technology, and the text never suggests that animators are uncertain how to achieve it. Choice D is incorrect because the underlined question pertains to the perspective of computer animators, not the audience, and the text never considers audience’s reactions to characters in animated films.",
+        "resim_yolu": null
+
+example2:
+"id": "S1",
+        "soru_turu": "Advanced Math: Equivalent expressions",
+        "zorluk": "Easy",
+        "soru_metni": "Which expression is equivalent to ({m}^{4}{q}^{4}{z}^{-1})(m{q}^{5}{z}^{3}) , where m , q , and z are positive?",
+        "secenekler": [
+            "A) {m}^{4}{q}^{20}{z}^{-3}",
+            "B) {m}^{5}{q}^{9}{z}^{2}",
+            "C) {m}^{6}{q}^{8}{z}^{-1}",
+            "D) {m}^{20}{q}^{12}{z}^{-2}"
+        ],
+        "dogru_cevap_ve_aciklama": "Choice B is correct. Applying the commutative property of multiplication, the expression ({m}^{4}{q}^{4}{z}^{-1})(m{q}^{5}{z}^{3}) can be rewritten as ({m}^{4}m)({q}^{4}{q}^{5})({z}^{-1}{z}^{3}) . For positive values of x , ({x}^{a})({x}^{b})={x}^{a+b} . Therefore, the expression ({m}^{4}m)({q}^{4}{q}^{5})({z}^{-1}{z}^{3}) can be rewritten as ({m}^{4+1})({q}^{4+5})({z}^{-1+3}) , or {m}^{5}{q}^{9}{z}^{2} . Choice A is incorrect and may result from multiplying, not adding, the exponents. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors.",
+        "resim_yollari": []
